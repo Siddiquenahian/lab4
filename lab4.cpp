@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<math.h>
-int main()
+void main()
 {
  int i=0,j=0,x=0,n;
  void *p,*add[5];
